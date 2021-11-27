@@ -150,7 +150,7 @@ margin-top: 7px;
 margin-bottom: 0px;
 }
 .top-apps {
-background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
+border: 2px solid #1E93FF;
 border-radius: 25px;
 width: 70%;
 }
