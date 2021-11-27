@@ -123,34 +123,6 @@ margin-left: 60px;
 @supports (
   (-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))
 ) {
-  .top {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    color: rgb(255,255,255,.6);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    -webkit-backdrop-filter: blur(20px);
-    backdrop-filter: blur(20px);
-  }
-}
-.top h1 {
-position: fixed;
-top: 5px;
-left: 55px;
-font-size: 25px;
-color: #1E93FF;
-}
-.top Img {
-width: 30px;
-height: 30px;
-border-radius: 50%;
-margin-left: 20px; 
-}
-@supports (
-  (-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))
-) {
   .name {
     position: fixed;
     left: 0%;
