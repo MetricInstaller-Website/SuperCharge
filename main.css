@@ -135,6 +135,9 @@ outline: none;
 border: 2px solid #2E78E3;
 background: none;
 }
+#myInput::placeholder {
+color: #2E78E3;
+}
 #myUL {
 /* Remove default list styling */
 list-style-type: none;
