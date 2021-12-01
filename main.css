@@ -4,7 +4,7 @@ padding: 0;
 font-family: -apple-system;
 color: #FFFFFF;
 overflow-x: hidden;
-background-color: #111720;
+background: linear-gradient(45deg, #2036AE, #2E78E3 100%);
 -webkit-touch-callout: none;
 user-select: none;
 -webkit-user-select: none;
