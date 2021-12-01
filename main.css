@@ -23,6 +23,9 @@ display: inline-block;
 border-radius: 20px;
 margin: 10px;
 }
+.text-box-thing h1 {
+color: #2036AE;
+}
 @supports (
   (-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))
 ) {
