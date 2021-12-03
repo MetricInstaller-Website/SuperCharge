@@ -22,7 +22,7 @@ width: 75%;
 display: inline-block;
 border-radius: 25px;
 margin: 12px;
-max-width: 350px;
+max-width: 475px;
 }
 .card-devs h1 {
 background-image: linear-gradient(90deg, hsla(231, 69%, 40%, 1) 0%, hsla(215, 76%, 54%, 1) 100%);
