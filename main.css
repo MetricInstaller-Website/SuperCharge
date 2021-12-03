@@ -204,6 +204,7 @@ max-width: 350px;
 display: inline-block;
 }
 .top-app .banner {
+height: 20%;
 width: 100%;
 border-top-left-radius: 15px;
 border-top-right-radius: 15px;
