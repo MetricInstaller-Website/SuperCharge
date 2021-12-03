@@ -66,7 +66,7 @@ src: url(https://appinstallerios.com/fonts/Framework7Icons-Regular.woff2);
     font-family: Framework7 Icons;
     justify-content: center;
     position: fixed;
-    box-shadow: 1px 2px 10px #e8effa;
+    box-shadow: 1px 2px 10px #fff;
     bottom: 0px;
     z-index: 99;
     text-align: center;
@@ -76,6 +76,7 @@ src: url(https://appinstallerios.com/fonts/Framework7Icons-Regular.woff2);
     left: 0;
     right: 0;
     width: 65%;
+    background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
     border-radius: 20px;
     -webkit-backdrop-filter: blur(20px);
     backdrop-filter: blur(20px);
@@ -86,13 +87,14 @@ font-size: 45px;
 margin: 15.8px;
 }
 .nav a.active {
-color: #111720;
+text-shadow: 1px 2px 10px #fff;
+color: #2036AE;
 }
 .nav a.un-active {
 color: #e8effa;
 }
 .apps:hover {
-background-color: #000;
+background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
 }
 .apps {	
 width: 85%;
