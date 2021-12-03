@@ -24,7 +24,9 @@ border-radius: 25px;
 margin: 12px;
 }
 .card-devs h1 {
-color: #2036AE;
+background-image: linear-gradient(90deg, hsla(231, 69%, 40%, 1) 0%, hsla(215, 76%, 54%, 1) 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 font-weight: 800;
 text-align: justify;
 margin-left: 20px;
