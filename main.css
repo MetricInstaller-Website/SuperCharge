@@ -140,7 +140,7 @@ margin: 10px;
 float: left;
 width: 45px;
 border-radius: 23.3%;
-filter: drop-shadow(1px 2px 10px #e8effa);
+box-shadow: 1px 2px 10px #2036AE;
 }
 .apps h1 {
 font-size: 17px;
