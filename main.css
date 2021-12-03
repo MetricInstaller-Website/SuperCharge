@@ -184,19 +184,6 @@ float: left;
 margin-top: 7px;
 margin-bottom: 0px;
 }
-.top-apps {
-border: 2px solid #e8effa;
-border-radius: 25px;
-width: 70%;
-}
-.top-apps img {
-width: 62px;
-height: 62px;
-display: inline-block;
-border-radius: 23.3%;
-margin: 8.5px;
-margin-bottom: 3.6px;
-}
 #myInput {	
 background-position: 10px 12px;
 background-repeat: no-repeat;
