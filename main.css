@@ -48,13 +48,13 @@ display: inline-block;
 }
 .text-box-thing {
 background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
-width: 75%;
+width: 85%;
 display: inline-block;
 border-radius: 20px;
 margin: 10px;
 }
 .text-box-thing h1 {
-font-size: 20px;
+font-size: 15px;
 color: #2036AE;
 }
 @supports (
