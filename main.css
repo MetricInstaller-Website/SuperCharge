@@ -193,6 +193,48 @@ outline: none;
 border: 2px solid #e8effa;
 background: none;
 }
+.top-app {
+background-color: #222;
+padding-bottom: 15px;
+border-radius: 15px;
+width: 90%;
+margin: 10px;
+margin-bottom: 30px;
+max-width: 350px;
+display: inline-block;
+}
+.top-app .banner {
+width: 100%;
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+margin-bottom: 5px;
+}
+.top-app .icon {
+float: left;
+margin-left: 10px;
+width: 40px;
+height: 40px;
+border-radius: 23.3%;
+}
+.top-app h1 {
+font-size: 17px;
+font-weight: 600;
+margin-left: 60px;
+margin-top: 3px;
+margin-bottom: 0px;
+text-align: justify;
+}
+.top-app p {
+font-size: 14px;
+font-weight: 400;
+margin-left: 60px;
+margin-top: 0px;
+margin-bottom: 0px;
+color: #777;
+text-align: justify;
+}
 #myInput::placeholder {
 color: #e8effa;
 }
