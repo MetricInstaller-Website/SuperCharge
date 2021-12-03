@@ -16,6 +16,43 @@ user-select: none;
 a {
 text-decoration: none;
 }
+.card-devs {
+background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
+width: 85%;
+display: inline-block;
+border-radius: 20px;
+margin: 10px;
+border: 2px solid #1E93FF;
+}
+.card-devs h1 {
+color: #1E93FF;
+font-weight: 800;
+text-align: justify;
+margin-left: 20px;
+}
+.card-devs p {
+color: #1E93FF;
+font-weight: 400;
+text-align: justify;
+margin-left: 20px;
+margin-right: 20px;
+}
+.card-devs img {
+width: 120px;
+border-radius: 60px;
+margin: 15px;
+}
+.card-devs a {
+color: #111720;
+display: block;
+width: 120px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 10px;
+background-color: #1E93FF;
+margin: 10px;
+display: inline-block;
+}
 .text-box-thing {
 background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
 width: 75%;
