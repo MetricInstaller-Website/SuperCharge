@@ -196,7 +196,7 @@ background: none;
 .top-app {
 background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
 padding-bottom: 15px;
-border-radius: 15px;
+border-radius: 25px;
 width: 75%;
 margin: 10px;
 margin-bottom: 30px;
@@ -205,8 +205,8 @@ display: inline-block;
 }
 .top-app .banner {
 width: 100%;
-border-top-left-radius: 15px;
-border-top-right-radius: 15px;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
 border-bottom-left-radius: 5px;
 border-bottom-right-radius: 5px;
 margin-bottom: 5px;
