@@ -18,11 +18,10 @@ text-decoration: none;
 }
 .card-devs {
 background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
-width: 85%;
+width: 60%;
 display: inline-block;
 border-radius: 20px;
 margin: 10px;
-border: 2px solid #1E93FF;
 }
 .card-devs h1 {
 color: #1E93FF;
@@ -38,7 +37,7 @@ margin-left: 20px;
 margin-right: 20px;
 }
 .card-devs img {
-width: 120px;
+width: 100px;
 border-radius: 60px;
 margin: 15px;
 }
