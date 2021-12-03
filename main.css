@@ -42,7 +42,7 @@ width: 120px;
 padding-top: 10px;
 padding-bottom: 10px;
 border-radius: 10px;
-background-color: #2036AE;
+background-image: linear-gradient(90deg, hsla(231, 69%, 40%, 1) 0%, hsla(215, 76%, 54%, 1) 100%);
 margin: 10px;
 display: inline-block;
 }
@@ -116,7 +116,7 @@ font-size: 45px;
 margin: 15.8px;
 }
 .nav a.active {
-background: -webkit-linear-gradient(#2035ac, #317be3);
+background-image: linear-gradient(90deg, hsla(231, 69%, 40%, 1) 0%, hsla(215, 76%, 54%, 1) 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 }
