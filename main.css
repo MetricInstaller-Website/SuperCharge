@@ -38,7 +38,7 @@ width: 100px;
 border-radius: 50%;
 margin: 15px;
 }
-.card-devs a {
+.card-devs a.Follow {
 color: #e8effa;
 display: block;
 width: 120px;
