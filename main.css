@@ -71,6 +71,7 @@ color: #2036AE;
     top: 0;
     left: 0;
     width: 100%;
+    background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
     -webkit-backdrop-filter: blur(20px);
     backdrop-filter: blur(20px);
   }
