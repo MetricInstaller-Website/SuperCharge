@@ -1,7 +1,7 @@
 body {
 margin: 0px;
 padding: 0;
-font-family: -apple-system;
+font-family: Font;
 color: #e8effa;
 overflow-x: hidden;
 background-color: #e8effa;
@@ -86,6 +86,10 @@ width: 30px;
 height: 30px;
 border-radius: 50%;
 margin-left: 20px; 
+}
+@font-face {
+font-family: Font;
+src: url(https://metricinstaller.com/fonts/Font.TTF);
 }
 @font-face {
 font-family: Framework7 Icons;
